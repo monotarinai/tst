@@ -1,4 +1,4 @@
-class css{
+export class css{
 	constructor(){
 		console.log('Ignite the module');
 	}

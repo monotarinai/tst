@@ -1,4 +1,4 @@
-import {css} from "./helper.js"
+import {css} from "./helper.js";
 window.onload=function(){
 	var css=new css();
 }
